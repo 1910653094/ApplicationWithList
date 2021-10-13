@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApplicationWithList</string>
+
+    <string name="country_label">Country:</string>
+    <string name="city_label">City:</string>
+    <string name="city_pop_label">City pop:</string>
+    <string name="metro_pop_label">Metro pop:</string>
+</resources>
